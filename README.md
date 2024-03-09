@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am occasionally called an AI, due to my behavior in te digital realm.
+- ⚡ Fun fact: I am occasionally called an AI, due to my behavior in the digital realm.
 
 <!---
 SBPepperminion/SBPepperminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
